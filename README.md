@@ -1,6 +1,6 @@
 # dc-studies
 
-###First commit: 05/24/2017
+### First commit: 05/24/2017
 This repository contains the Radiance models and weather-data used for
 studies performed to improve the performance of Daylighting Simulations
 used in Honeybee[+].
